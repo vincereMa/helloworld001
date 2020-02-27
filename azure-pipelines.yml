@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  name:'Default'
+pool: 'Azure Pipelines'
 
 steps:
 - script: echo Hello, world!
