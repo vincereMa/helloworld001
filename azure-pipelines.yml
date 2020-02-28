@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: 'pool1'
+pool: 'test123'
 
 steps:
 - script: echo Hello, world!
